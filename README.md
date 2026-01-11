@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vasilis, originally from Athens, Greece but living and working in London.
+I'm Vasilis *(vah-SEE-lees)*, originally from Athens, Greece but living and working in London.
 
 I'm a Front-end Engineer who enjoys improving UX, performance and accessibility.
 Also tinkering with Rust on the side.
