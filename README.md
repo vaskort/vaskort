@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Vasilis, originally from Athens, Greece but living and working in London.
+
+I'm a Front-end Engineer who enjoys improving UX, performance and accessibility.
+Also tinkering with Rust on the side.
+
+🎸 Guitarist | 🥋 BJJ blue belt | ⌨️ Split keyboard enthusiast 🤓
+
 <!--
 **vaskort/vaskort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
