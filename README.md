@@ -1,23 +1,21 @@
-## Hi there 👋
+## Hi, I'm Vasilis *(vah-SEE-lees)*  👋
 
-I'm Vasilis *(vah-SEE-lees)*, originally from Athens, Greece but living and working in London.
+I'm a web engineer, based in London.
 
-I'm a Front-end Engineer who enjoys improving UX, performance and accessibility.
-Also tinkering with Rust on the side.
+I care about UX, performance and accessibility. Outside work,
+I build Rust tools and web apps around things I use and enjoy.
 
-🎸 Guitarist | 🥋 BJJ blue belt | ⌨️ Split keyboard enthusiast 🤓
+A few things I've built:
 
-<!--
-**vaskort/vaskort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Pharos](https://github.com/vaskort/pharos) — a Rust CLI for tracing
+  vulnerable JavaScript dependencies and finding remediation paths.
+- [symfreq](https://github.com/vaskort/symfreq) — a symbol-frequency
+  analyser born out of optimising my split-keyboard layout.
+- [Metronomos](https://metronomos.io) — an offline-capable metronome
+  for musicians.
 
-Here are some ideas to get you started:
+🎸 Guitarist | 🥋 BJJ blue belt | ⌨️ Split keyboard enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://vaskort.com) · [LinkedIn](https://www.linkedin.com/in/vaskort/)
+
+Writing: [Blog](https://vaskort.com/blog/) · [Medium](https://medium.com/@vaskort)
