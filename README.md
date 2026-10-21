@@ -1,9 +1,11 @@
 ## Hi, I'm Vasilis *(vah-SEE-lees)*  👋
 
+`76 61 73 6b 6f 72 74`
+
 I'm a web engineer, based in London.
 
-I care about UX, performance and accessibility. Outside work,
-I build Rust tools and web apps around things I use and enjoy.
+I care about UX, performance and accessibility.   
+Outside work, I build Rust tools and web apps around things I use and enjoy.
 
 A few things I've built:
 
